@@ -1,0 +1,14 @@
+{
+  "name": "neural_nets",
+  "version": "0.0.1",
+  "description": "Basic neural net",
+  "main": "main.coffee",
+  "scripts": {
+    "test": "coffee main.coffee"
+  },
+  "author": "c2huc2hu",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.13.1"
+  }
+}
